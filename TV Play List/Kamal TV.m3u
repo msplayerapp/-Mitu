@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="83" tvg-logo="https://yt3.googleusercontent.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj" group-title="BD.BANG.CH ( BDIX )",A SPORTS HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=9JLucQqToKS8h3VoG1l4tA&expires=1735166548&user=7e48d7e5f01d439f8a06d1e1dd00dded
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSHKLz6G6Hyzngii-Rd0eABAL_uReYUzCYg&s" group-title="𝚂𝙿𝙾𝚁𝚃𝚂.𝙲𝙷 ( 𝙱𝙳𝙸𝚇 )",PTV 𝚂𝚙𝚘𝚛𝚝𝚜 HD
-http://fcdn.bdixsports.live:1935/event/event.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://yt3.googleusercontent.com/yGbA7wHYbj_KXDN4Q7IP4P8ADErUQX6SYJotTN35Kjes6ufM7Kua15xVqzCfq_IEfz8nAlr3=s900-c-k-c0x00ffffff-no-rj" group-title="𝚂𝙿𝙾𝚁𝚃𝚂.𝙲𝙷 ( 𝙱𝙳𝙸𝚇 )",𝚃 𝚂𝚙𝚘𝚛𝚝𝚜 𝙱𝙳𝙸𝚇 
-http://bostv.one:8080/live/24345670/24345670/94406.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="𝚂𝙿𝙾𝚁𝚃𝚂.𝙲𝙷 ( 𝙱𝙳𝙸𝚇 )",Ten Sports HD 
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/20240315_084134.jpg" group-title="𝚂𝙿𝙾𝚁𝚃𝚂.𝙲𝙷 ( 𝙱𝙳𝙸𝚇 )",WILLOW EXTRA
-http://bostv.one:8080/live/24345670/24345670/92701.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOO-pFRfbJXcWgOXEF47LdoWgrtNB2YZMqw&s" group-title="𝚂𝙿𝙾𝚁𝚃𝚂.𝙲𝙷 ( 𝙱𝙳𝙸𝚇 )",Cricket
-http://bostv.one:8080/live/24345670/24345670/92703.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://yt3.googleusercontent.com/wmMhkk6wa1gPnY8NK7t1TjDO935hUi6h0wIaCfNZTvj9joidoRWhseNyVys__ssQxK5lGsyBun8=s900-c-k-c0x00ffffff-no-rj" group-title="𝚂𝙿𝙾𝚁𝚃𝚂.𝙲𝙷 ( 𝙱𝙳𝙸𝚇 )",STAR SPORTS SELECT 2 HD
 http://bostv.one:8080/live/kamal@555/kamal@555/74227.m3u8
 
